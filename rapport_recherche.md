@@ -340,7 +340,6 @@ plot_group_sizes(groups = groups, part = "Année")
 
 ![Courbe occurences](img/courbe_occurences.PNG)
 
-    ## Le chargement a nécessité le package : ggplot2
 
 ![](Explorerlecorpus_files/figure-gfm/unnamed-chunk-10-1.png)<!-- -->
 
