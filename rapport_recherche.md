@@ -338,7 +338,7 @@ groups <- group_sizes(debats_dfm_300, "annee")
 plot_group_sizes(groups = groups, part = "Année")
 ```
 
-![Courbe occurences](img/courbe_occurences.png)
+![Courbe occurences](img/courbe_occurences.PNG)
 
     ## Le chargement a nécessité le package : ggplot2
 
