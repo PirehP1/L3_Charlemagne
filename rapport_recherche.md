@@ -151,21 +151,6 @@ library(readtext)
 library(quanteda)
 ```
 
-    ## Package version: 4.0.2
-    ## Unicode version: 15.1
-    ## ICU version: 74.1
-
-    ## Parallel computing: 12 of 12 threads used.
-
-    ## See https://quanteda.io for tutorials and examples.
-
-    ##
-    ## Attachement du package : 'quanteda'
-
-    ## L'objet suivant est masqué depuis 'package:readtext':
-    ##
-    ##     texts
-
 Egalement, nous chargeons au sein de R, un fichier contenant des
 fonctions préparées au préalable qui nous seront utiles pour notre
 étude:
