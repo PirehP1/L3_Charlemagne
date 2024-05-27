@@ -737,7 +737,7 @@ proposés par l’AFC (Analyse Factorielle des Correspondances), il semble
 y avoir un lien très fort, bien que dissimulé au premier abord, entre
 les discours historiques et tous les autres discours de Charlemagne. 
 
-#### Les coordonnées négatives, facteurs d'une histoire antérieure
+### Les coordonnées négatives, facteurs d'une histoire antérieure
 
 On remarque alors que le terme ‘’romans’’ est celui qui est en coordonnées
 la plus négative sur le facteur 2 de notre AFC, ce qui signifie qu’il
@@ -870,7 +870,7 @@ Les années qui semblent être les plus compatibles avec ces productions
 littéraires et artistiques sont 1832, 1833, 1834 et 1863, des années
 assez rapprochées entre elles sauf pour la dernière.
 
-#### Les coordonnées positives, entre éducation et royauté
+### Les coordonnées positives, entre éducation et royauté
 
 
 
