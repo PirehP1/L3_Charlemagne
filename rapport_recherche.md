@@ -129,9 +129,249 @@ Hypothèse Plan de démarche
 
 ## Explorer le corpus des mentions de Charlemagne dans le Journal des Débats (Tom)
 
-- présenter l'environnement logiciel : R, RStudio, quanteda
-- présenter le code qui permet d'importer le corpus du journal des débats 1815-1870
-- décrire les principales caractéristiques du corpus (nombres de mots et d'occurrences) et la distribution des mots selon la temporalité
+### Environnement logiciel
+
+Pour notre étude, nous nous sommes appuyés sur le logiciel R via son
+interface Rstudio (écriture en Markdown). R étant un logiciel libre, il
+a l’avantage d’être gratuit, multi-platerforme et nous permettra
+d’écrire les processus qui nous permettent d’arriver aux résultats
+obtenus. Plus particulièrement, nous utiliserons un package appelé
+**quanteda[^1]** (*Quantitative Analysis of Textual Data*) développé par
+Kenneth Benoit et Kohei Watanabe. Ce package, permet une analyse des
+textes par les fonctions qu’il introduit en un minimum d’étapes et de
+manière totalement libre et gratuite. Nous introduisons donc le package
+quanteda ainsi que le package readtext[^2] qui nous sera utile
+également, par le code suivant:
+
+``` r
+#install.packages("readtext")
+#install.packages("quanteda")
+
+library(readtext)
+library(quanteda)
+```
+
+    ## Package version: 4.0.2
+    ## Unicode version: 15.1
+    ## ICU version: 74.1
+
+    ## Parallel computing: 12 of 12 threads used.
+
+    ## See https://quanteda.io for tutorials and examples.
+
+    ##
+    ## Attachement du package : 'quanteda'
+
+    ## L'objet suivant est masqué depuis 'package:readtext':
+    ##
+    ##     texts
+
+Egalement, nous chargeons au sein de R, un fichier contenant des
+fonctions préparées au préalable qui nous seront utiles pour notre
+étude:
+
+``` r
+source(file = "fonctions_texto.r")
+```
+
+### Importation du corpus du journal des débats 1815-1870
+
+Pour importer le corpus, nous le mettons au préalable dans un fichier
+tabulaire au format .csv afin de réunir tous les articles faisant
+référence à Charlemagne entre 1815 et 1870 et de leur attribuer un id:
+
+``` r
+csvf <- "charlemagne_debats_1815-1870.csv"
+textes <- readtext(csvf, text_field = "text", docid_field = "id")
+debats <- corpus(textes)
+```
+
+### Principales caractéristiques du corpus
+
+Grâce aux lignes de codes suivantes, nous affichons la taille de notre
+corpus:
+
+``` r
+occurrences <- tokens(debats)
+corpus_size(occurrences)
+```
+
+    ## Total d'occurrences : 218603
+    ## Total de formes : 30026
+
+``` r
+print("Ci-dessous le nombre d'occurences et de formes sans la ponctuation")
+```
+
+    ## [1] "Ci-dessous le nombre d'occurences et de formes sans la ponctuation"
+
+``` r
+occurrences <- tokens(debats, remove_punct = T, remove_symbols = T, remove_numbers = T)
+corpus_size(occurrences)
+```
+
+    ## Total d'occurrences : 182092
+    ## Total de formes : 29610
+
+Toutefois, notre corpus contient encore les *mots outils*, autrement
+appelés *stop words*, c’est-à-dire tous les mots grammaticaux comme les
+conjonctions de coordination par exemple. Nous filtrons donc le corpus
+grâce à un fichier contenant les mots à exclure et le code suivant nous
+donne alors la taille du corpus sans ces derniers:
+
+``` r
+stopwords_fr <- read.csv("stopwords_fr.csv",  encoding="utf-8")
+toks_nostop <- tokens_remove(occurrences, stopwords_fr$fg, padding = FALSE)
+corpus_size(toks_nostop)
+```
+
+    ## Total d'occurrences : 88328
+    ## Total de formes : 28714
+
+A partir des mots restants, on constitue un tableau qui associe document
+et terme appelé DFM (*document-feature matrix*):
+
+``` r
+debats_dfm <- dfm(toks_nostop)
+nfeat(debats_dfm)
+```
+
+    ## [1] 27327
+
+Cela nous permet ensuite de faire une visualisation statistique du
+tableau, c’est-à-dire d’avoir le nombre de fois qu’apparaît chaque terme
+mais aussi de faire un résumé statistique de ce dernier grâce à la
+fonction *summary*:
+
+``` r
+featfreq(debats_dfm)
+```
+``` r
+summary(featfreq(debats_dfm))
+```
+
+    ##    Min. 1st Qu.  Median    Mean 3rd Qu.    Max.
+    ##   1.000   1.000   1.000   3.232   2.000 994.000
+
+On constate une part très importante d’hapax (termes n’apparaissant
+qu’une seule fois), la médiane étant égale à 1. Ensuite, on filtre donc
+le tableau en ne conservant uniquement que les 300 mots avec la
+fréquence d’apparition la plus élevée afin d’exclure les hapax et les
+mots qui n’apparaissent que très peu et qui ne sont donc pas assez
+représentatifs ou utiles pour l’étude.
+
+``` r
+top300 <- names(topfeatures(debats_dfm, n = 300))
+debats_dfm_300 <- dfm_select(debats_dfm, pattern = top300, selection = "keep")
+nfeat(debats_dfm_300)
+```
+
+    ## [1] 300
+
+Le filtrage effectué, on découpe ensuite le corpus par année:
+
+``` r
+group_sizes(debats_dfm_300, "annee")
+```
+
+    ##      Occurrences Formes Hapax
+    ## 1815         139     89    59
+    ## 1816         141     86    58
+    ## 1817          67     52    42
+    ## 1818          19     17    15
+    ## 1819         266    141    85
+    ## 1820         123     80    57
+    ## 1821          95     64    45
+    ## 1822          30     26    22
+    ## 1823          29     23    19
+    ## 1824         270    139    79
+    ## 1825         491    176    67
+    ## 1826         265    129    67
+    ## 1827         359    164    82
+    ## 1828         116     68    44
+    ## 1829         568    132    60
+    ## 1830         497    185    81
+    ## 1831          88     63    51
+    ## 1832         865    238    67
+    ## 1833         304    155    88
+    ## 1834         638    209    66
+    ## 1835          96     66    48
+    ## 1836         383    161    72
+    ## 1837         541    202    74
+    ## 1838         701    230    79
+    ## 1839         381    188    98
+    ## 1840         241    127    71
+    ## 1841         192    123    84
+    ## 1842         249    132    79
+    ## 1843         362    172    78
+    ## 1844         276    127    70
+    ## 1845         198    105    67
+    ## 1846         188    116    78
+    ## 1847         390    169    70
+    ## 1848         100     65    47
+    ## 1849         288    136    66
+    ## 1850         491    198    77
+    ## 1851         320    149    73
+    ## 1852         695    224    79
+    ## 1853         594    211    76
+    ## 1854         861    251    64
+    ## 1855        1130    266    50
+    ## 1856         564    208    85
+    ## 1857         447    194    87
+    ## 1858         706    228    77
+    ## 1859         464    185    78
+    ## 1860         394    170    76
+    ## 1861         651    198    67
+    ## 1862         798    235    69
+    ## 1863         785    225    55
+    ## 1864         611    232    92
+    ## 1865         368    176    88
+    ## 1866         475    190    91
+    ## 1867         687    218    76
+    ## 1868         426    190    92
+    ## 1869         327    163    87
+    ## 1870         316    157    84
+
+``` r
+groups <- group_sizes(debats_dfm_300, "annee")
+
+plot_group_sizes(groups = groups, part = "Année")
+```
+
+![Courbe occurences](img/courbe_occurences.png)
+
+    ## Le chargement a nécessité le package : ggplot2
+
+![](Explorerlecorpus_files/figure-gfm/unnamed-chunk-10-1.png)<!-- -->
+
+Cela nous permet donc de visualiser le nombre d’occurences pour chaque
+mot par année. A l’aide d’un graphique, on constate un nombre
+d’occurences qui varie énormément en fonction des années, très élevé
+pour 1855 par exemple avec environ 1000 occurences et très faible pour
+1818 avec seulement 50 occurences environ. De manière générale, les 300
+termes les plus fréquents se retrouvent plus dans les journaux de la fin
+de la période considérée. On peut également savoir quels sont les mots
+les plus fréquents. On sait par exemple, de manière peu surprenante, que
+le mot le plus fréquent est Charlemagne. Cette tendance est à mettre en
+relation avec la courbe obtenue sur Gallicagram présentée plus haut. En
+effet, les deux graphiques sont similaires et nous détections déjà un
+emploi particulièrement important du terme “Charlemagne” vers 1830 et
+vers 1855. Nous devons donc nous interroger sur ces périodes. En effet,
+tout au long de notre étude nous nous attarderons sur la question du
+sous-emploi ou du sur-emploi de certains termes qui sont à mettre en
+relation avec les événements correspondants aux années durant lesquelles
+ces termes sont employés. C’est donc pourquoi nous nous pencherons dans
+la prochaine partie sur la question de la temporalité.
+
+[^1]: Benoit, Kenneth, Kohei Watanabe, Haiyan Wang, Paul Nulty, Adam
+    Obeng, Stefan Müller, and Akitaka Matsuo. (2018) “quanteda: An R
+    package for the quantitative analysis of textual data”. Journal of
+    Open Source Software. 3(30), 774.
+    <https://doi.org/10.21105/joss.00774>
+
+[^2]: Benoit K, Obeng A (2024). *readtext: Import and Handling for Plain
+    and Formatted Text Files*. R package version 0.91,
+    <https://github.com/quanteda/readtext>.
 
 # La question de la temporalité
 
@@ -495,8 +735,11 @@ pour se faire, nous avons utiliser la technique du coude, plus connue
 sous son nom anglais, *elbow method*. Selon les résultats qui nous sont
 proposés par l’AFC (Analyse Factorielle des Correspondances), il semble
 y avoir un lien très fort, bien que dissimulé au premier abord, entre
-les discours historiques et tous les autres discours de Charlemagne. On
-remarque alors que le terme ‘’romans’’ est celui qui est en coordonnées
+les discours historiques et tous les autres discours de Charlemagne. 
+
+#### Les coordonnées négatives, facteurs d'une histoire antérieure
+
+On remarque alors que le terme ‘’romans’’ est celui qui est en coordonnées
 la plus négative sur le facteur 2 de notre AFC, ce qui signifie qu’il
 est sans doute en situation d’attration avec les modalités colonnes
 également en coordonnées négatives sur ce facteur comme les années 1832,
@@ -626,6 +869,10 @@ au fur et à mesure de l’évolution temporelle de notre période.
 Les années qui semblent être les plus compatibles avec ces productions
 littéraires et artistiques sont 1832, 1833, 1834 et 1863, des années
 assez rapprochées entre elles sauf pour la dernière.
+
+#### Les coordonnées positives, entre éducation et royauté
+
+
 
 [^9]: *Journal des débats*, 1er septembre 1834,
     <https://gallica.bnf.fr/ark:/12148/bpt6k438510m>
