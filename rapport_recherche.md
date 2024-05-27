@@ -136,11 +136,11 @@ interface Rstudio (écriture en Markdown). R étant un logiciel libre, il
 a l’avantage d’être gratuit, multi-platerforme et nous permettra
 d’écrire les processus qui nous permettent d’arriver aux résultats
 obtenus. Plus particulièrement, nous utiliserons un package appelé
-**quanteda[^1]** (*Quantitative Analysis of Textual Data*) développé par
+**quanteda[^3]** (*Quantitative Analysis of Textual Data*) développé par
 Kenneth Benoit et Kohei Watanabe. Ce package, permet une analyse des
 textes par les fonctions qu’il introduit en un minimum d’étapes et de
 manière totalement libre et gratuite. Nous introduisons donc le package
-quanteda ainsi que le package readtext[^2] qui nous sera utile
+quanteda ainsi que le package readtext[^4] qui nous sera utile
 également, par le code suivant:
 
 ``` r
@@ -363,13 +363,13 @@ relation avec les événements correspondants aux années durant lesquelles
 ces termes sont employés. C’est donc pourquoi nous nous pencherons dans
 la prochaine partie sur la question de la temporalité.
 
-[^1]: Benoit, Kenneth, Kohei Watanabe, Haiyan Wang, Paul Nulty, Adam
+[^3]: Benoit, Kenneth, Kohei Watanabe, Haiyan Wang, Paul Nulty, Adam
     Obeng, Stefan Müller, and Akitaka Matsuo. (2018) “quanteda: An R
     package for the quantitative analysis of textual data”. Journal of
     Open Source Software. 3(30), 774.
     <https://doi.org/10.21105/joss.00774>
 
-[^2]: Benoit K, Obeng A (2024). *readtext: Import and Handling for Plain
+[^4]: Benoit K, Obeng A (2024). *readtext: Import and Handling for Plain
     and Formatted Text Files*. R package version 0.91,
     <https://github.com/quanteda/readtext>.
 
@@ -447,7 +447,7 @@ traitant des nouvelles diplomatiques reçues de Naples le 24 novembre
 
 > “Charlemagne en constituant l’Etat pontifical n’en fit la donation
 > qu’à Saint-Pierre et à la république, *beato Petro er romane
-> reipublicae*” [^3]
+> reipublicae*” [^5]
 
 Ici la référence historique est fausse, puisque c’est Pépin le Bref qui
 a en réalité, en 751, réalisé la donation territoriale au Pape fondant
@@ -469,7 +469,7 @@ journaliste P.David:
 > “Quoi qu’il en soit l’auteur commence par établir, d’après l’historien
 > Muratori, que Rome n’ayant été conquise par les Lombards, n’a pu être
 > comprise au nom des cités données ou restitues aux Papes par Pépin et
-> Charemagne”.[^4]
+> Charemagne”.[^6]
 
 Cette citation faisant référence au don de Pépin en 751, créant une nuance
 insistant sur l’indépendance de la Ville Eternelle face aux Lombards
@@ -511,7 +511,7 @@ référence au *Discours sur Tite-Live* de Machiavel:
 > l’Eglise que nous le devons. Ainsi elle appela Chgarlemagne pour
 > chasser les Lombards déjà rois de toute l’Italie. \[…\]. Telle est la
 > cause de sa désunion. \[…\] Or tout cela c’est à la cour de Rome que
-> nous le devons.” [^5]
+> nous le devons.” [^7]
 
 Cette citation, prenant place dans un contexte de *Risrogimento*, cause
 populaire en Europe, peut traduire une critique anticléricale qui est
@@ -541,7 +541,7 @@ sorte d’anachronisme politique. Cela nous est témoigné dans le numéro du
 > qu’elle occupait dans l’Equilibre politique de l’Europe; que la
 > liberté et l’indépendance qu’elle possédait aux temps de Charlemagne
 > et de Jules II ont été effacées par les transformations politiques et
-> territoriales des deux derniers siècles” [^6]
+> territoriales des deux derniers siècles” [^8]
 
 Cette citation témloigne des évolutions géopolitiques internationles des
 deux derniers diècles ayant progressivement rétrogradé les Etats
@@ -594,7 +594,7 @@ du 19 mars 1866, citation tirée d’un commentaire d’actualités étrangères
 > l’indépendance du Pontife?” \[…\] Afin de s’assurer de la donation de
 > Charlemagne, la papauté laisse épouser successivement neuf femmes, au
 > mépris des arrêts énergiques par lesquels l’Eglise réprouvait le
-> divorce” [^7]
+> divorce” [^9]
 
 Cette citation usant d’un exemple prosaïque pour démontrer les intérêts
 politiques pour les deux partis à s’allier, renverse une sorte d’image
@@ -672,7 +672,7 @@ compte-rendu de la séance du Corps Législatif du 11 mars 1861:
 > français. Il a voulu maintenir la papauté dans des conditions de
 > dignité et d’indépendance, et en même temps il voulut, conformément à
 > la politique séculaire de la France, maintenir la séparation des
-> nations italiennes. » [^8]
+> nations italiennes. » [^10]
 
 Ainsi, Charlemagne sert à justifier par l’histoire, la tradition ou la
 morale une position qui peut sembler trahir nos alliés italiens du
@@ -698,22 +698,22 @@ démontrer toute la plasticité de la figure de Charlemagne qui sert à
 justifier tout et son contraire, montrant bien que Charlemagne relève du
 mythe fondateur que du mythe en mouvement dans une réalité changeante. Pour revenir à la plasticité de la figure de Charlemagne, nous pouvons l'observer dans les coordonnées positives du facteur 1. Les modalités lignes et colonnes sont très hétéroclites, rapprochant des termes très distants (comme "Livres", "Royal", "Académie", "romans", "travail", "rue" ou encore "reine") et des années dont le lien chronologique ne peut être fait comme cela ("1845", "1844", "1870", ou encore "1819"). Il apparait que nos coordonnées positives témoignent d'un usage plus artistique et littéraire de Charlemagne, ce qui est l'enjeu central du deuxième facteur.
 
-[^3]: *Journal des débats*, 1er décembre 1866, lien
+[^5]: *Journal des débats*, 1er décembre 1866, lien
     URL:<https://gallica.bnf.fr/ark:/12148/bpt6k456344g>.
 
-[^4]: *Journal des Débats*, 26 novembre 1866, URL:
+[^6]: *Journal des Débats*, 26 novembre 1866, URL:
     <https://gallica.bnf.fr/ark:/12148/bpt6k4563391>
 
-[^5]: *Journal des Débats* 19 novembre 1866, URL:
+[^7]: *Journal des Débats* 19 novembre 1866, URL:
     <https://gallica.bnf.fr/ark:/12148/bpt6k456332c>
 
-[^6]: *Journal des Débats*, 14 mars 1861, URL:
+[^8]: *Journal des Débats*, 14 mars 1861, URL:
     <https://gallica.bnf.fr/ark:/12148/bpt6k452639v>
 
-[^7]: *Journal des Débats*, 19 mars 1866, URL:
+[^9]: *Journal des Débats*, 19 mars 1866, URL:
     <https://gallica.bnf.fr/ark:/12148/bpt6k456090r>
 
-[^8]: *Journal des Débats*, 12 mars 1861, URL:
+[^10]: *Journal des Débats*, 12 mars 1861, URL:
     <https://gallica.bnf.fr/ark:/12148/bpt6k4526373>
 
 
@@ -749,7 +749,7 @@ discours dans le domaine historique. Et en effet, ces discours semblent
 
 > “Ce travail est difficile, je le sais, mais il est nécessaire pour
 > ranimer Charlemagne et son temps. C’est une étude historique à faire
-> sur des contes et des romans.” [^9]
+> sur des contes et des romans.” [^11]
 
 ``` r
 kwic(tokens(debats), "romans", window=10)
@@ -809,7 +809,7 @@ kwic(tokens(debats), "romans", window=10)
 
 Cette phrase du Journal des Débats du 1er septembre 1834, tiré de la
 rubrique des Variétés, et plus précisément d’un article à propos du
-livre *Histoire des Français*[^10] de Monsieur de Sismondi, nous indique
+livre *Histoire des Français*[^12] de Monsieur de Sismondi, nous indique
 que les personnes cherchant à aborder le thème de l’empereur
 Charlemagne, grâce aux connaissances que nous avons de lui et des
 personnes qui lui sont proches, pour être capable de le lier aux
@@ -817,7 +817,7 @@ multiples enjeux omniprésents lors du XIXème siècle.
 
 > “La chronique du moine Saint-Gall précède d’un siècle au moins les
 > plus anciens romans de Charlemagne. Il est temps de passer à ces
-> romans et d’étudier dans Charlemagne le héros épique.” [^11]
+> romans et d’étudier dans Charlemagne le héros épique.” [^13]
 
 Il y a alors une volonté claire de démontrer la place et surtout
 l’importance des écrits littéraires ayant été rédigés avant l’époque de
@@ -840,9 +840,9 @@ la notion de féodalité qui est omniprésente dans les récits qui sont
 racontés par les acteurs du XIXème siècle.
 
 > “Le poète nous montre avec le héros son théâtre : Arcis et Napoléon,
-> Chalons et Mérovée, Valmy et le drapeau tricolore” [^12]
+> Chalons et Mérovée, Valmy et le drapeau tricolore” [^14]
 
-Dans ce poème de Monsieur Viennet nommé *La Franciade*[^13] qui nous est
+Dans ce poème de Monsieur Viennet nommé *La Franciade*[^15] qui nous est
 présenté par l’éditeur Henri Plon, l’auteur cherche a faire une
 démonstration de la place des personnages et la mise en abime qui passe
 par la comparaison avec d’autres hommes forts de l’histoire de la
@@ -874,18 +874,18 @@ assez rapprochées entre elles sauf pour la dernière.
 
 
 
-[^9]: *Journal des débats*, 1er septembre 1834,
+[^11]: *Journal des débats*, 1er septembre 1834,
     <https://gallica.bnf.fr/ark:/12148/bpt6k438510m>
 
-[^10]: Jean Charles Leonard Simonde de Sismondi, *Histoire des français...*, 1821
+[^12]: Jean Charles Leonard Simonde de Sismondi, *Histoire des français...*, 1821
 
-[^11]: *Journal des Débats*, 14 octobre 1832,
+[^13]: *Journal des Débats*, 14 octobre 1832,
     <https://gallica.bnf.fr/ark:/12148/bpt6k437835v>
 
-[^12]: *Journal des Débats*, 05 mai 1863,
+[^14]: *Journal des Débats*, 05 mai 1863,
     <https://gallica.bnf.fr/ark:/12148/bpt6k453409g>
 
-[^13]: Jeans-Pons-Guillaume Viennet, *La Franciade: poëme en dix
+[^15]: Jeans-Pons-Guillaume Viennet, *La Franciade: poëme en dix
     chants*, 1863
 
 ### Dépouillement du 3e facteur (Waldeck)
