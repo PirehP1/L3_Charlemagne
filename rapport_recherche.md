@@ -379,9 +379,40 @@ la prochaine partie sur la question de la temporalité.
 
 - Reprendre la question de la temporalité dans le corpus à travers la présentation de la démarche allant de la table lexicale à l'AFC
 - Rappeler brièvement ce qu'est une AFC
-- Présenter AnalyseSHS
 - Nombre de facteurs à dépouiller
-- Seuillage des modalités, modalités en supplémentaire...
+
+### Présentation du de l’outil utilisé
+
+Afin de réaliser l’AFC nous utilisons le site AnalyseSHS[^5], développé
+par l’équipe du Pôle Informatique de Recherche et d’enseignement en
+Histoire (PIREH) de l’Université Paris 1 Panthéon-Sorbonne en 2012. Ce
+site s’appuie sur plusieurs technologies libres (PHP, CSS, JavaScript)
+et sur plusieurs paquets de R[^6]. Pour réaliser l’AFC, le site permet
+d’entrer notre fichier tabulaire en tant que tableau de contingence et
+une fois les paramètres définis, de sortir l’AFC (cf image de l’AFC).
+
+### Traitement des modalités
+
+L’AFC reste très illisible notamment en raison du grand nombre de
+modalités. On seuille donc les modalités pour ne garder que celles qui
+sont supérieures ou égales à la valeur moyenne en ligne et en colonne.
+Cela permet donc d’enlever toutes celles qui ne sont pas suffisamment
+représentatives du corpus. Ensuite, malgré le fait que l’année 1829 ait
+déjà été écartée, il nous faut encore en écarter afin de ne pas biaiser
+l’analyse par **l’effet comète**[^7] de certaines modalités. Cet **effet
+comète** désigne en effet toutes les modalités qui se trouvent
+extrêmement écartées des autres. En colonne, on ne prend donc pas en
+compte les mots “vol”, “net” et “édition”. Ces trois mots se réfèrent
+certainement à des prix ou des références d’autres ouvrages cités dans
+les articles étudiés et ne sont donc pas représentatifs pour notre
+étude.
+
+[^5]: <http://analyse.univ-paris1.fr/>
+
+[^6]: liste détaillée des paquets de R utilisés pour les méthodes
+    quantitatives: <http://analyse.univ-paris1.fr/apropos.html>
+
+[^7]: Philippe Cibois, *Les méthodes d’analyse d’enquête*
 
 ![Graphique factoriel](img/afc_charlemagne.png)
 
@@ -447,7 +478,7 @@ traitant des nouvelles diplomatiques reçues de Naples le 24 novembre
 
 > “Charlemagne en constituant l’Etat pontifical n’en fit la donation
 > qu’à Saint-Pierre et à la république, *beato Petro er romane
-> reipublicae*” [^5]
+> reipublicae*” [^9]
 
 Ici la référence historique est fausse, puisque c’est Pépin le Bref qui
 a en réalité, en 751, réalisé la donation territoriale au Pape fondant
@@ -469,7 +500,7 @@ journaliste P.David:
 > “Quoi qu’il en soit l’auteur commence par établir, d’après l’historien
 > Muratori, que Rome n’ayant été conquise par les Lombards, n’a pu être
 > comprise au nom des cités données ou restitues aux Papes par Pépin et
-> Charemagne”.[^6]
+> Charemagne”.[^10]
 
 Cette citation faisant référence au don de Pépin en 751, créant une nuance
 insistant sur l’indépendance de la Ville Eternelle face aux Lombards
@@ -511,7 +542,7 @@ référence au *Discours sur Tite-Live* de Machiavel:
 > l’Eglise que nous le devons. Ainsi elle appela Chgarlemagne pour
 > chasser les Lombards déjà rois de toute l’Italie. \[…\]. Telle est la
 > cause de sa désunion. \[…\] Or tout cela c’est à la cour de Rome que
-> nous le devons.” [^7]
+> nous le devons.” [^11]
 
 Cette citation, prenant place dans un contexte de *Risrogimento*, cause
 populaire en Europe, peut traduire une critique anticléricale qui est
@@ -541,7 +572,7 @@ sorte d’anachronisme politique. Cela nous est témoigné dans le numéro du
 > qu’elle occupait dans l’Equilibre politique de l’Europe; que la
 > liberté et l’indépendance qu’elle possédait aux temps de Charlemagne
 > et de Jules II ont été effacées par les transformations politiques et
-> territoriales des deux derniers siècles” [^8]
+> territoriales des deux derniers siècles” [^12]
 
 Cette citation témloigne des évolutions géopolitiques internationles des
 deux derniers diècles ayant progressivement rétrogradé les Etats
@@ -594,7 +625,7 @@ du 19 mars 1866, citation tirée d’un commentaire d’actualités étrangères
 > l’indépendance du Pontife?” \[…\] Afin de s’assurer de la donation de
 > Charlemagne, la papauté laisse épouser successivement neuf femmes, au
 > mépris des arrêts énergiques par lesquels l’Eglise réprouvait le
-> divorce” [^9]
+> divorce” [^13]
 
 Cette citation usant d’un exemple prosaïque pour démontrer les intérêts
 politiques pour les deux partis à s’allier, renverse une sorte d’image
@@ -672,7 +703,7 @@ compte-rendu de la séance du Corps Législatif du 11 mars 1861:
 > français. Il a voulu maintenir la papauté dans des conditions de
 > dignité et d’indépendance, et en même temps il voulut, conformément à
 > la politique séculaire de la France, maintenir la séparation des
-> nations italiennes. » [^10]
+> nations italiennes. » [^14]
 
 Ainsi, Charlemagne sert à justifier par l’histoire, la tradition ou la
 morale une position qui peut sembler trahir nos alliés italiens du
@@ -698,22 +729,22 @@ démontrer toute la plasticité de la figure de Charlemagne qui sert à
 justifier tout et son contraire, montrant bien que Charlemagne relève du
 mythe fondateur que du mythe en mouvement dans une réalité changeante. Pour revenir à la plasticité de la figure de Charlemagne, nous pouvons l'observer dans les coordonnées positives du facteur 1. Les modalités lignes et colonnes sont très hétéroclites, rapprochant des termes très distants (comme "Livres", "Royal", "Académie", "romans", "travail", "rue" ou encore "reine") et des années dont le lien chronologique ne peut être fait comme cela ("1845", "1844", "1870", ou encore "1819"). Il apparait que nos coordonnées positives témoignent d'un usage plus artistique et littéraire de Charlemagne, ce qui est l'enjeu central du deuxième facteur.
 
-[^5]: *Journal des débats*, 1er décembre 1866, lien
+[^9]: *Journal des débats*, 1er décembre 1866, lien
     URL:<https://gallica.bnf.fr/ark:/12148/bpt6k456344g>.
 
-[^6]: *Journal des Débats*, 26 novembre 1866, URL:
+[^10]: *Journal des Débats*, 26 novembre 1866, URL:
     <https://gallica.bnf.fr/ark:/12148/bpt6k4563391>
 
-[^7]: *Journal des Débats* 19 novembre 1866, URL:
+[^11]: *Journal des Débats* 19 novembre 1866, URL:
     <https://gallica.bnf.fr/ark:/12148/bpt6k456332c>
 
-[^8]: *Journal des Débats*, 14 mars 1861, URL:
+[^12]: *Journal des Débats*, 14 mars 1861, URL:
     <https://gallica.bnf.fr/ark:/12148/bpt6k452639v>
 
-[^9]: *Journal des Débats*, 19 mars 1866, URL:
+[^13]: *Journal des Débats*, 19 mars 1866, URL:
     <https://gallica.bnf.fr/ark:/12148/bpt6k456090r>
 
-[^10]: *Journal des Débats*, 12 mars 1861, URL:
+[^14]: *Journal des Débats*, 12 mars 1861, URL:
     <https://gallica.bnf.fr/ark:/12148/bpt6k4526373>
 
 
@@ -749,7 +780,7 @@ discours dans le domaine historique. Et en effet, ces discours semblent
 
 > “Ce travail est difficile, je le sais, mais il est nécessaire pour
 > ranimer Charlemagne et son temps. C’est une étude historique à faire
-> sur des contes et des romans.” [^11]
+> sur des contes et des romans.” [^15]
 
 ``` r
 kwic(tokens(debats), "romans", window=10)
@@ -809,7 +840,7 @@ kwic(tokens(debats), "romans", window=10)
 
 Cette phrase du Journal des Débats du 1er septembre 1834, tiré de la
 rubrique des Variétés, et plus précisément d’un article à propos du
-livre *Histoire des Français*[^12] de Monsieur de Sismondi, nous indique
+livre *Histoire des Français*[^16] de Monsieur de Sismondi, nous indique
 que les personnes cherchant à aborder le thème de l’empereur
 Charlemagne, grâce aux connaissances que nous avons de lui et des
 personnes qui lui sont proches, pour être capable de le lier aux
@@ -817,7 +848,7 @@ multiples enjeux omniprésents lors du XIXème siècle.
 
 > “La chronique du moine Saint-Gall précède d’un siècle au moins les
 > plus anciens romans de Charlemagne. Il est temps de passer à ces
-> romans et d’étudier dans Charlemagne le héros épique.” [^13]
+> romans et d’étudier dans Charlemagne le héros épique.” [^17]
 
 Il y a alors une volonté claire de démontrer la place et surtout
 l’importance des écrits littéraires ayant été rédigés avant l’époque de
@@ -840,9 +871,9 @@ la notion de féodalité qui est omniprésente dans les récits qui sont
 racontés par les acteurs du XIXème siècle.
 
 > “Le poète nous montre avec le héros son théâtre : Arcis et Napoléon,
-> Chalons et Mérovée, Valmy et le drapeau tricolore” [^14]
+> Chalons et Mérovée, Valmy et le drapeau tricolore” [^18]
 
-Dans ce poème de Monsieur Viennet nommé *La Franciade*[^15] qui nous est
+Dans ce poème de Monsieur Viennet nommé *La Franciade*[^19] qui nous est
 présenté par l’éditeur Henri Plon, l’auteur cherche a faire une
 démonstration de la place des personnages et la mise en abime qui passe
 par la comparaison avec d’autres hommes forts de l’histoire de la
@@ -874,18 +905,18 @@ assez rapprochées entre elles sauf pour la dernière.
 
 
 
-[^11]: *Journal des débats*, 1er septembre 1834,
+[^15]: *Journal des débats*, 1er septembre 1834,
     <https://gallica.bnf.fr/ark:/12148/bpt6k438510m>
 
-[^12]: Jean Charles Leonard Simonde de Sismondi, *Histoire des français...*, 1821
+[^16]: Jean Charles Leonard Simonde de Sismondi, *Histoire des français...*, 1821
 
-[^13]: *Journal des Débats*, 14 octobre 1832,
+[^17]: *Journal des Débats*, 14 octobre 1832,
     <https://gallica.bnf.fr/ark:/12148/bpt6k437835v>
 
-[^14]: *Journal des Débats*, 05 mai 1863,
+[^18]: *Journal des Débats*, 05 mai 1863,
     <https://gallica.bnf.fr/ark:/12148/bpt6k453409g>
 
-[^15]: Jeans-Pons-Guillaume Viennet, *La Franciade: poëme en dix
+[^19]: Jeans-Pons-Guillaume Viennet, *La Franciade: poëme en dix
     chants*, 1863
 
 ### Dépouillement du 3e facteur (Waldeck)
