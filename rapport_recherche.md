@@ -513,107 +513,56 @@ kwic(tokens(debats), "romans", window=10)
 ```
 
     ## Keyword-in-context with 49 matches.           
-    ##   [62, 109]
-    ##   [99, 423]
-    ##  [143, 278]
-    ##  [244, 262]
-    ##  [334, 117]
-    ##  [341, 659]
-    ##  [439, 110]
-    ##  [439, 311]
-    ##   [440, 10]
-    ##  [529, 135]
-    ##  [587, 410]
-    ##  [618, 243]
-    ##  [618, 318]
-    ##  [618, 341]
-    ##  [653, 393]
-    ##   [708, 99]
-    ##   [713, 87]
-    ##  [714, 228]
-    ##   [723, 76]
-    ##   [728, 62]
-    ##   [728, 68]
-    ##  [729, 188]
-    ##  [729, 300]
-    ##   [740, 17]
-    ##  [740, 207]
-    ##  [740, 218]
-    ##  [740, 253]
-    ##   [743, 36]
-    ##  [743, 223]
-    ##  [743, 278]
-    ##  [743, 339]
-    ##  [743, 354]
-    ##    [744, 3]
-    ##  [745, 176]
-    ##    [747, 7]
-    ##   [747, 68]
-    ##   [747, 82]
-    ##   [750, 27]
-    ##  [750, 753]
-    ##    [751, 5]
-    ##   [751, 69]
-    ##  [751, 127]
-    ##   [752, 48]
-    ##   [752, 70]
-    ##  [753, 178]
-    ##  [753, 282]
-    ##   [769, 80]
-    ##  [794, 235]
-    ##  [851, 115]
     ##                                                                          
-    ##                       si homme dans l'histoire, prend, dès les premiers |romans |, l'attitude d'un empereur idéal, organe et ~ représentant
-    ##                               ', autre se bornant à laisser croire. Les |Romans |semblaient inébranlables dans leur amo.ur; quand une bonne mesuré
-    ##                      romain; il faudrait faire ce qu'ont fait nos vieux |romans |de gestes. C'est là qu'est l'histoire de là'
-    ##                            légende! ), le; grand Corneille appelait les |romans |de chevalerie les originaux décousus de l'histoire. Ainsi M
-    ##                      , et de César jusqu'à Attila. Puia viendraient les |romans |d'aventures. Enfin paraîtraient les poëmes satiriques et allégoriques si
-    ##                                     ), il est, dis-je, dans les idiomes |romans |une singularité dont l'explication m'a préoccupé grandement. Pourquoi,
-    ##                            aimé la force, et non pas seulement dans les |romans |, c'est le nôtre, ou les plus grands noms
-    ##                             , c'est enfin ce qu'on ne voit que dans les |romans |, la force au service delà justice, le bonheur
-    ##                              L'amour ne joue pas un grand rôle dans les |romans |du cycle carlovingien. Ce sont des chants de combat
-    ##           , le caractère politique qui semble régner dans plusieurs des |romans |carlovingiens, probablement écrits « sous ~ Ie patronage et
-    ##               très religieux respect de l'histoire, tout en faisant des |romans |. L'oeuvre qu'il a entreprise, ou pour mieax dire
-    ##                          la source, soit en allant la chercher dans les |romans |de chevalerie, dans les contes des trouvères et des
-    ##                           les Notes de M. Mazuy des citations des vieux |romans |et des vieilles poésies françaises qui les leur feront très
-    ##                  . L'Histoire des quatre fils Aymon, le Charlemagne des |romans |, l'enchanteur Merlin, les ogres, les chevaliers de
-    ##                                            : ( ( i ). Et que disent les |romans |, les chansons épiques, les traditions populaires, tous
-    ##                        colorent chacun selon le goût de son siècle. Ces |romans |de Charlemagne et des douze pains avee quoi le moyeu-âge
-    ##                      une étude historique à faire sur des contes et des |romans |. Cette élude, M. de Sismondi ne l'a
-    ##                       O ferrum! heu ferrum » Ouvrez quelques-uns de ces |romans |dont la longue série forme l'épopée carlovingienne, et vous
-    ##            Cet adoucissement du fanatisme fougueux, qu'on voit dans les |romans |de Charlemagne, fut un effet lent et graduel des
-    ##                     première croisade. La patrie de ces deux espèces de |romans |est auînôins douteuse. Deux romans de la cinquième classe
-    ##                  ces deux espèces de romans est auînôins douteuse. Deux |romans |de la cinquième classe qui se, rapporte aux guerres
-    ##                             avares de détails, ne disent rien. Dans les |romans |, tous les autres exploits de Charlemagne, plus importans
-    ##  - visiblement confondu avec Charles-Martel et Charles-le-Chauve. « Les |romans |de la quatrième classe qui se rapportent à Guillaume 4iu
-    ##                 remarque. Les contes que j'ai cités ont-ils précédé les |romans |ou les ont-ils suivis? Je ne sais pas mais
-    ##               Saint-Gall précède; d'un siècle au moins les plus anciens |romans |de Charlemagne. II est temps de passer à ces
-    ##                            de Charlemagne. II est temps de passer à ces |romans |et d'étudier dapsCbarlemagnf le héros épique. Nous savons comment
-    ##               a fait l'apothéose poétique de Charlemagne. Dans tous les |romans |des Douze Pairs Charlemagne que l'imagination du moyen-âge confond avec
-    ##          cela appartient à la Germanie sa généalogie fabuleuse dans les |romans |là maison de France descend des empereurs romains. Maximien
-    ##                             e voir. Quand au contraire, paraît dans les |romans |le personnage dé Charlemagne nous sommes.au douzième siècle. Le
-    ##                      héros de son épopée. Aussi dans le Charlemagne des |romans |le guerrier germaniqm; a les moeurs du chevalier,
-    ##        Charlemagne, c'est-à-dire du héros auquel se rattachent tous les |romans |des Douze Pairs il est temps d'en venir à i
-    ##                               est temps d'en venir à i' examen des deux |romans |que nous annonçons:'̃'•̃;;•̃̃ 
-    ##                                                                    De » |
-    ##   Charlemagne. Ce changement d'adversaires s'est perpétué dans tous les |romans |de Charlemagne. ( 2 ° article. - )
-    ##                                          Le plus célèbre de ces anciens |romans |de Charlemagne et des Douze Pairs toujours il s'agit de
-    ##                     Turpin. Ils la croient postérieure à la plupart des |romans |c'est sans contredit te fragment connu sous le nom de
-    ##                         au moius aux traditions qui font le fond de ces |romans |carlovingiens ou tout au moius aux traditions qui font le
-    ##            par le docteur Giulio Ferrario dans son histoire des anciens |romans |. Les preuves qu'ils donnent à cet égard sont convaincantes
-    ##                          épique. C'est à ce second degré c'est dans les |romans |de chevalerie. Les payens ici sont les Sarrasins et
-    ##                                                                 ( Z ) M |
-    ##                   se retrouvent dans les j'omans connus sous le nom des |Romans |que nous devons maintenant étudier le personnage de Charlemagne.
-    ##                         . Monin nous fait connaître, font partie de ces |romans |des douze pa/ r ~ de France. Le
-    ##                                  ,' ducde Bavière etc. Mais ce sont des |romans |isolés. Autour de Charlemagne au contraire, viennent se
-    ##                                , comme en choeur, je ne sais combien de |romans |dont il est le centre. Charlemagne est le dernier
-    ##              Ce sont eux surtout qui devinrent les sujets des diftérens |romans |. La fable en effet aime mieax se prendre aux
-    ##                           dans t'Edds, et dans les Nibelungen. Dans les |romans |cartovingiens Attila, Charlemagne restent en arrière, et dans
-    ##                     . mère de Charlemagne, précédé d'une Notice sur les |Romans |des douze pairs de France, adressée à M.
-    ##                       plus nous inspirer. Il nous donnera des sujets de |romans |c'est possible:\\ il ne nous donnera pas de
-    ##                         France. Il en. sera d'un opéra commode certains |romans |historiques de M""* de Genlis. <
-    ##                                                                                                                                                                                                                       
-                                                       
+    ##   [62, 109]   ##                    si homme dans l'histoire, prend, dès les premiers |romans |, l'attitude d'un empereur idéal, organe et ~ représentant
+    ##   [99, 423]   ##                            ', autre se bornant à laisser croire. Les |Romans |semblaient inébranlables dans leur amo.ur; quand une bonne mesuré
+    ##  [143, 278]   ##                   romain; il faudrait faire ce qu'ont fait nos vieux |romans |de gestes. C'est là qu'est l'histoire de là'
+    ##  [244, 262]   ##                         légende! ), le; grand Corneille appelait les |romans |de chevalerie les originaux décousus de l'histoire. Ainsi M
+    ##  [334, 117]##                      , et de César jusqu'à Attila. Puia viendraient les |romans |d'aventures. Enfin paraîtraient les poëmes satiriques et allégoriques si
+    ##  [341, 659]##                                     ), il est, dis-je, dans les idiomes |romans |une singularité dont l'explication m'a préoccupé grandement. Pourquoi,
+    ##  [439, 110]##                            aimé la force, et non pas seulement dans les |romans |, c'est le nôtre, ou les plus grands noms
+    ##  [439, 311]##                             , c'est enfin ce qu'on ne voit que dans les |romans |, la force au service delà justice, le bonheur
+    ##  [440, 10] ##                              L'amour ne joue pas un grand rôle dans les |romans |du cycle carlovingien. Ce sont des chants de combat
+    ##  [529, 135]##           , le caractère politique qui semble régner dans plusieurs des |romans |carlovingiens, probablement écrits « sous ~ Ie patronage et
+    ##  [587, 410]##               très religieux respect de l'histoire, tout en faisant des |romans |. L'oeuvre qu'il a entreprise, ou pour mieax dire
+    ##  [618, 243]##                          la source, soit en allant la chercher dans les |romans |de chevalerie, dans les contes des trouvères et des
+    ##  [618, 318]##                           les Notes de M. Mazuy des citations des vieux |romans |et des vieilles poésies françaises qui les leur feront très
+    ##  [618, 341]##                  . L'Histoire des quatre fils Aymon, le Charlemagne des |romans |, l'enchanteur Merlin, les ogres, les chevaliers de
+    ##  [653, 393]##                                            : ( ( i ). Et que disent les |romans |, les chansons épiques, les traditions populaires, tous
+    ##  [708, 99] ##                        colorent chacun selon le goût de son siècle. Ces |romans |de Charlemagne et des douze pains avee quoi le moyeu-âge
+    ##  [713, 87] ##                      une étude historique à faire sur des contes et des |romans |. Cette élude, M. de Sismondi ne l'a
+    ##  [714, 228]##                       O ferrum! heu ferrum » Ouvrez quelques-uns de ces |romans |dont la longue série forme l'épopée carlovingienne, et vous
+    ##  [723, 76] ##            Cet adoucissement du fanatisme fougueux, qu'on voit dans les |romans |de Charlemagne, fut un effet lent et graduel des
+    ##  [728, 62] ##                     première croisade. La patrie de ces deux espèces de |romans |est auînôins douteuse. Deux romans de la cinquième classe
+    ##  [728, 68] ##                  ces deux espèces de romans est auînôins douteuse. Deux |romans |de la cinquième classe qui se, rapporte aux guerres
+    ##  [729, 188]##                             avares de détails, ne disent rien. Dans les |romans |, tous les autres exploits de Charlemagne, plus importans
+    ##  [729, 300]##  - visiblement confondu avec Charles-Martel et Charles-le-Chauve. « Les |romans |de la quatrième classe qui se rapportent à Guillaume 4iu
+    ##  [740, 17] ##                 remarque. Les contes que j'ai cités ont-ils précédé les |romans |ou les ont-ils suivis? Je ne sais pas mais
+    ##  [740, 207]##               Saint-Gall précède; d'un siècle au moins les plus anciens |romans |de Charlemagne. II est temps de passer à ces
+    ##  [740, 218]##                            de Charlemagne. II est temps de passer à ces |romans |et d'étudier dapsCbarlemagnf le héros épique. Nous savons comment
+    ##  [740, 253]##               a fait l'apothéose poétique de Charlemagne. Dans tous les |romans |des Douze Pairs Charlemagne que l'imagination du moyen-âge confond avec
+    ##  [743, 36] ##          cela appartient à la Germanie sa généalogie fabuleuse dans les |romans |là maison de France descend des empereurs romains. Maximien
+    ##  [743, 223]##                             e voir. Quand au contraire, paraît dans les |romans |le personnage dé Charlemagne nous sommes.au douzième siècle. Le
+    ##  [743, 278]##                      héros de son épopée. Aussi dans le Charlemagne des |romans |le guerrier germaniqm; a les moeurs du chevalier,
+    ##  [743, 339]##        Charlemagne, c'est-à-dire du héros auquel se rattachent tous les |romans |des Douze Pairs il est temps d'en venir à i
+    ##  [743, 354]##                               est temps d'en venir à i' examen des deux |romans |que nous annonçons:'̃'•̃;;•̃̃ 
+    ##  [744, 3]  ## De Charlemagne. Ce changement d'adversaires s'est perpétué dans tous les|romans |de Charlemagne. ( 2 ° article. - )
+    ##  [745, 176]##                                          Le plus célèbre de ces anciens |romans |de Charlemagne et des Douze Pairs toujours il s'agit de
+    ##  [747, 7]  ##                     Turpin. Ils la croient postérieure à la plupart des |romans |c'est sans contredit te fragment connu sous le nom de
+    ##  [747, 68] ##                         au moius aux traditions qui font le fond de ces |romans |carlovingiens ou tout au moius aux traditions qui font le
+    ##  [747, 82] ##            par le docteur Giulio Ferrario dans son histoire des anciens |romans |. Les preuves qu'ils donnent à cet égard sont convaincantes
+    ##  [750, 27] ##                          épique. C'est à ce second degré c'est dans les |romans |de chevalerie. Les payens ici sont les Sarrasins et
+    ##  [750, 753]##                   se retrouvent dans les j'omans connus sous le nom des |Romans |que nous devons maintenant étudier le personnage de Charlemagne.
+    ##  [751, 5]  ##                         . Monin nous fait connaître, font partie de ces |romans |des douze pa/ r ~ de France. Le
+    ##  [751, 69] ##                                  ,' ducde Bavière etc. Mais ce sont des |romans |isolés. Autour de Charlemagne au contraire, viennent se
+    ##  [751, 127]##                                , comme en choeur, je ne sais combien de |romans |dont il est le centre. Charlemagne est le dernier
+    ##  [752, 48] ##              Ce sont eux surtout qui devinrent les sujets des diftérens |romans |. La fable en effet aime mieax se prendre aux
+    ##  [752, 70] ##                           dans t'Edds, et dans les Nibelungen. Dans les |romans |cartovingiens Attila, Charlemagne restent en arrière, et dans
+    ##  [753, 178]##                     . mère de Charlemagne, précédé d'une Notice sur les |Romans |des douze pairs de France, adressée à M.
+    ##  [753, 282]##                       plus nous inspirer. Il nous donnera des sujets de |romans |c'est possible:\\ il ne nous donnera pas de
+    ##  [769, 80] ##                         France. Il en. sera d'un opéra commode certains |romans |historiques de M""* de Genlis. <
+    ##  [794, 235]##
+    ##  [851, 115]## (Deux lignes incompréhensibles donc léger problèmes dans les lignes)
 
 Cette phrase du Journal des Débats du 1er septembre 1834, tiré de la
 rubrique des Variétés, et plus précisément d’un article à propos du
