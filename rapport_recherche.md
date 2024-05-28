@@ -363,7 +363,15 @@ la prochaine partie sur la question de la temporalité.
 
 - Reprendre la question de la temporalité dans le corpus à travers la présentation de la démarche allant de la table lexicale à l'AFC
 - Rappeler brièvement ce qu'est une AFC
-- Nombre de facteurs à dépouiller
+
+### La question des facteurs
+
+Nos modalités sont donc découpées en plus de 50 facteurs. Toutefois, certains ne représentent qu'une part mineure des modalités, il n'est donc pas nécessaire de tous les étudier. 
+Afin de savoir quel nombre de facteur est à étudier nous pouvons nous servir d'une règle assez simple, nous prenons uniquement les facteurs qui se trouvent avant la formation d'un "coude",
+c'est-à-dire avant une chute brutale sur la part des facteurs. Ici, le coude se situe entre le facteur 2 et 3. Toutefois, nous faisons quand même le choix d'étudier le troisième facteur, 
+deux étant trop peu pour obtenir une vraie conclusion sur la représentativité de nos échantillons. De plus, le facteur 3 représente tout de même plus de 4% des modalités, ce qui en fait un facteur important. 
+
+![Courbe facteurs](img/courbe_facteurs.PNG)
 
 ### Présentation du de l’outil utilisé
 
