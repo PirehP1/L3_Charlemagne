@@ -887,7 +887,59 @@ assez rapprochées entre elles sauf pour la dernière.
 
 ### Les coordonnées positives, entre éducation et royauté
 
+À l'instar de la méthode que nous avons appliqué pour les différents termes
+présents en coordonnées négatives, nous allons appliquer ce fonctionnement 
+aux multiples mots trouvable en coordonnées positives. Ces informations se 
+retrouvent être beaucoup plus distancées dans le temps que ne l'était les 
+dates des coordonnées négatives. De plus, ces dates sont regroupées en plusieurs
+groupes proches dans le temps. On peut par exemple retrouver 1823 et 1825; 1844
+et 1845 ou encore 1859/1860/1861 et 1869.Les informations qui sont relatés dans le 
+Journal des Débats en coordonnées positives semblent se séparer en deux 
+visions claires mais très distinctes l'une de l'autre. En effet, le premier 
+thème important est lié au pouvoir royal. Nous pouvons l'apercevoir à travers
+plusieurs mots clés qui nous servent de lignes directrices sur ce sujet : Royal ;
+Siège ; Reine ; Honneur. Cependant, certains mots possèdent aussi un sens qui se 
+rapprochent du second thème et qui peuvent être assimilés à ces deux thèmes. Le
+deuxième thème qui est extrêmement abordé semble être celui de l'éducation. Et en
+effet, certains mots servent aussi à nous donner cette impression comme prix (dans
+le sens d'un prix scolaire ou universitaire), heures (durant la scolarité des élèves),
+livres, académie, honneur. En outre, certains mots s'associant au thème de la royauté 
+peuvent aussi être assimilé à cette notion. Et cela passe par différents intermédiaires
+tel que le nom des écoles par exemple. On retrouve ce cas particulier dans le numéro
+du Journal des Débats du 07 septembre 1844. En effet, selon cet extrait nous pouvons
+analyser le fait que ces personnes sont : 
 
+>"Aubert-Hix, censeur des études au collége royal Louis-le-Grand, et son fils
+>professeur de rhétorique distingué au collége royal d'Angers" [^20]
+
+L'utilisation du terme royal désigne ici le fonctionnement et l'importance 
+de l'éducation transmise à certaines personnes du royaume, bien que cela ne peut,
+par conséquent, pas toucher toutes les strates de la société française du XIXème 
+siècle. En effet, les différences entre les habitants durant les multiples régimes
+politiques qui se succèdent, que ce soit, pour les années de notre corpus, la Seconde
+Restauration (1815-1830), la Monarchie de Juillet (1830-1845),la Deuxième République 
+(1848-1852) ainsi que le Second Empire (1852-1870). En comparant nos années choisies 
+en coordonnées positives aux régimes gouvernant à ce moment, il nous est alors simple
+de constater que seuls 1823, 1825 et 1844 se déroulent durant une période de royauté.
+Nous pouvons alors en comprendre que les années qui suivent sont principalement 
+concernées grâce aux retombées des actions et des décisions prises auparavant. 
+
+Pour autant, deux mots restent assez éloignés des deux thématiques que nous venons
+de définir : rue et pape. Pour le second, il est légitime d'imaginer un lien 
+probable entre les membres des hautes strates de la société, et donc très 
+probablement des nobles ainsi que de la royauté, et la papauté. Avant la fin du XIXème
+siècle, la France possède un rapport très spécifique à la religion chrétienne, qui
+est la base du fonctionnement de la société française. Cependant, il n'est pas 
+impossible de penser qu'au sein des livres d'histoires, que nous pouvions retrouver
+en coordonnées négatives, le thème de la papauté soit abordé. De plus, il est même
+imaginable que ce terme se retrouve dans des livres de religion qui cherche à dresser
+un portrait extrêmement élogieux des personnages forts du Moyen Âge, et donc de 
+Charlemagne dans notre cas. Le mot rue est, quant à lui, plus compliqué à relier à
+une thématique particulière. En effet, des rues existaient probablement durant le
+règne de Charlemagne ainsi que sous la royauté française. Nonobstant, le mot rue ne
+peut être utilisé qu'au sein d'études d'architecture ou de génie civil, quelque 
+soit son implication dans le bon fonctionnement de la société française du XIXème
+siècle. 
 
 [^15]: *Journal des débats*, 1er septembre 1834,
     <https://gallica.bnf.fr/ark:/12148/bpt6k438510m>
@@ -902,6 +954,9 @@ assez rapprochées entre elles sauf pour la dernière.
 
 [^19]: Jeans-Pons-Guillaume Viennet, *La Franciade: poëme en dix
     chants*, 1863
+
+[^20]: *Journal des Débats*, 07 septembre 1844,
+    <https://gallica.bnf.fr/ark:/12148/bpt6k446678q>
 
 ### Dépouillement du 3e facteur (Waldeck)
 
