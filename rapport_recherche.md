@@ -388,7 +388,7 @@ comète** désigne en effet toutes les modalités qui se trouvent
 extrêmement écartées des autres. En colonne, on ne prend donc pas en
 compte les mots “vol”, “net” et “édition”. Ces trois mots se réfèrent
 certainement à des prix ou des références d’autres ouvrages cités dans
-les articles étudiés et ne sont donc pas représentatifs pour notre
+les articles étudiés et ne sont donc pas très utiles pour notre
 étude.
 
 [^5]: <http://analyse.univ-paris1.fr/>
