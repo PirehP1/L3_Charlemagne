@@ -163,7 +163,7 @@ source(file = "fonctions_texto.r")
 
 Pour importer le corpus, nous le mettons au préalable dans un fichier
 tabulaire au format .csv afin de réunir tous les articles faisant
-référence à Charlemagne entre 1815 et 1870 et de leur attribuer un id:
+référence à Charlemagne entre 1815 et 1870 et de leur attribuer un id, c'est-à-dire un nombre unique qui leur est rattaché:
 
 ``` r
 csvf <- "charlemagne_debats_1815-1870.csv"
