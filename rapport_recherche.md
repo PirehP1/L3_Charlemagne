@@ -20,7 +20,7 @@ Le corpus à la base du Journal des Débats permet de discerner les construction
 
 En outre, le corpus est homogène, dans la mesure où il est uniquement composé d’éléments du même type de source, assurant sa qualité sérielle. La contrastivité du corpus est également achevée car il est possible de regrouper les articles par années et ensuite comparer les sous-parties. Recouvrant la période entre 1815 et 1870, le corpus corresponde tout aussi au critère de la diachronicité.[^26] 
 
-Enfin, le journal est un objet attentif à son environnement, réactif à ce qui a été dit et publié avant, ce qui assure qu’une partie considérable du champ discursif puisse être saisi avec ce corpus d’une taille modérée, se rapprochant ainsi à l’idéal de la réflexivité proposée par Damon Mayaffre.  Par conséquent, le corpus à la base du Journal der Débats permet de contourner la problématique épistémologique identifiée par Mayaffre, c’est-à-dire l’écart entre « l’établissement et du traitement du corpus, sur la base de critères explicites et objectifs et le moment de l’interprétation du texte qui fait appel […] à un intertexte subjectif et discrétionnaire au contour indéterminé ». Dans le cas du journal, une partie de l’intertexte de chaque article est forcément également saisie.
+Enfin, le journal est un objet attentif à son environnement, réactif à ce qui a été dit et publié avant, ce qui assure qu’une partie considérable du champ discursif puisse être saisi avec ce corpus d’une taille modérée, se rapprochant ainsi à l’idéal de la réflexivité proposée par Damon Mayaffre.  Par conséquent, le corpus à la base du Journal der Débats permet de contourner la problématique épistémologique identifiée par Mayaffre, c’est-à-dire l’écart entre « l’établissement et du traitement du corpus, sur la base de critères explicites et objectifs et le moment de l’interprétation du texte qui fait appel […] à un intertexte subjectif et discrétionnaire au contour indéterminé ».[^27] Dans le cas du journal, une partie de l’intertexte de chaque article est forcément également saisie.
 
 
 
@@ -42,6 +42,9 @@ Enfin, le journal est un objet attentif à son environnement, réactif à ce qui
 [^25]:Antoire Prost, Les mots, dans: René Rémond (éd.), *Pour une Histoire Politique*, 273.
 
 [^26]:Damon Mayaffre, Les corpus *réfléxifs* : entre architextualité et hypertextualité, dans : Corpus 1 (2002), p. 5.
+
+[^27]:Damon Mayaffre, Les corpus *réfléxifs* : entre architextualité et hypertextualité, dans : Corpus 1 (2002), p. 1.
+
 
 
 
@@ -282,11 +285,13 @@ la prochaine partie sur la question de la temporalité.
 
 ## Position du problème et méthodologie (Tom et Lola)
 
-L’analyse factorielle des correspondances est une méthode qui permet de discerner les relations entre les variables d’un tableau de données de grande taille en le découpant en multiples facteurs. (Prost) Dans notre cas, le base de l’analyse est le tableau lexical antérieurement présenté, qui a pour modalités en colonnes les années allant de 1815 à 1870 et pour modalités en lignes tous les mots des articles faisant mention de Charlemagne qui n’ont pas été exclus dans l’étape précédente. 
+L’analyse factorielle des correspondances est une méthode qui permet de discerner les relations entre les variables d’un tableau de données de grande taille en le découpant en multiples facteurs.[^28] Dans notre cas, le base de l’analyse est le tableau lexical antérieurement présenté, qui a pour modalités en colonnes les années allant de 1815 à 1870 et pour modalités en lignes tous les mots des articles faisant mention de Charlemagne qui n’ont pas été exclus dans l’étape précédente. 
 
 C’est donc la relation entre chacun de ces mots et les années de publication des articles dans lesquels ils apparaissent qui sera dégagée par l’AFC, montrant lesquels mots sont les plus fréquemment utilisés dans quelle période de temps. Dans cette manière, il est possible de découvrir le contexte textuel spécifique des mentions de Charlemagne dans chaque années et d’ainsi tirer les conclusions sur l’emploie changeant de la figure de l’empereur. 
 
 Dans la représentation graphique des résultats, les mots sont regroupés autour les années où ils apparaissent le plus fréquemment et éloignés de celles où leurs mentions sont les plus rares. 
+
+[^28]: Antoire Prost, Les mots, dans: René Rémond (éd.), *Pour une Histoire Politique*, 260-261.
 
 
 ### La question des facteurs
