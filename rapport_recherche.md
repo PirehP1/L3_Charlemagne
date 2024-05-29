@@ -18,7 +18,9 @@ De plus, malgré le fait qu’ils donnent lieu à des débats controversés, dan
 
 Un premier survol des résultats qui donnent les outils Gallicagram et Google Ngram Viewer soutien l’hypothèse selon lequel l’emploie de la figure Charlemagne dans les discours du 19e siècle subit des changements fréquents. Le premier permet d’analyser la fréquence de l’apparition du mot « Charlemagne » dans le corpus « Presse française / Gallica », dans lequel sont regroupés les journaux français les plus importants de l’époque, le deuxième travaille avec un corpus dont la composition reste inconnue. Gallicagram situe les plus hautes fréquences de mentions de Charlemagne dans les années 1830s et 1850s alors que Google Ngram View les met dans les années 1840s. 
 
-![Courbe Gallicagram](img/Courbe_Gallicagram.png)
+![Courbe Gallicagram](img/Courbe_Gallicagram_02.png)
+
+![Courbe Google Ngram Viewer](img/Courbe_Google_Ngram.png)
 
 Contrairement à Google Ngram Viewer, le corpus à la base du Journal des Débats permet de discerner les constructions discursives autour de la figure de Charlemagne au XIXe siècle tout en remplissant les critères pour la construction des corpus destinés à répondre à des questions historiques. La date et le lieu de parution de chaque édition du journal peuvent être précisément déterminés. Par conséquence, les contextes temporels et local des textes analysés sont connus, comme l’exige Antoine Prost, permettant de lier les références à Charlemagne à leurs environnements historiques spécifiques.[^25]
 
