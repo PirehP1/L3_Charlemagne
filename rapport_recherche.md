@@ -4,39 +4,12 @@
 
 ## Quel corpus pour quelles questions ? (Lola)
 
-Du croisement du Romantisme dans sa volonté de réhabiliter le Moyen Âge
-et le nationalisme croissant qui revendique des symboles puissants
-d’identité collective, émerge la figure identificatoire emblématique du
-19e siècle : l’empereur carolingien Charlemagne. (…) Une telle
-universalité n’est possible que grâce à la plasticité extraordinaire de
-cette figure. La diversité des activités du Charlemagne historique, y
-compris ses succès militaires, ses réformes juridiques et éducatifs et
-sa relation avec l’Église permettent de lui attribuer des qualités
-multiples en fonction de l’objectif du locuteur. Les visages multiples
-de Charlemagne ont la capacité de servir de permettre l’ancrage dans le
-passé glorieux de toute sorte de projet. L’étude de
-l’instrumentalisation de la figure de l’empereur laisse également
-identifier les liens réunissant les différents champs et régimes
-politiques de la France du 19e siècle et les thèmes centraux de leurs
-discours. Cette plasticité reflète le fait que le Charlemagne auquel le
-19e siècle fait référence n’est pas identique à la réalité historique du
-personnage. La figure moderne se situe là « où se rejoignent et se
-confondent mythe, histoire et poétique »[^1]. De cette fusion témoigne
-entre autres l’ouvrage La Gaule poétique : l’Histoire de France
-considérée dans les rapports avec la poésie, l’éloquence et les
-beaux-arts de Louis-Antoine-François de Marchangy, qui exerçait une
-influence profonde sur la littérature romantique. Charlemagne en tant
-que personnage identificatoire de la France, sa plasticité et la nature
-à la fois historique, mythique et poétique de sa figure laissent
-supposer que le discours qui lui était consacré s’est composé des
-conceptions distinctes, variant selon des événements du 19e siècle. À la
-base de cette hypothèse sera édifié le corpus textuel, visant à
-identifier les manières changeantes dont ceux qui participent au
-discours s’emparent de l’empereur. En outre, il est impératif que le
-corpus remplisse les trois critères fondamentaux de construction de
-corpus – l’homogénéité, la contrastivité et la diachronité – et le
-quatrième critère ajouté par Damon Mayaffre, qui est celui de la
-réflexivité.
+Du croisement du Romantisme dans sa volonté de réhabiliter le Moyen Âge et le nationalisme revendiquant des symboles puissants d’identité collective, émergeait la figure identificatoire emblématique du 19e siècle : l’empereur carolingien Charlemagne.
+La plasticité extraordinaire de cette figure l’a mis au centre des discours contemporains ; la diversité des activités du Charlemagne historique, y compris ses succès militaires, ses réformes juridiques et éducatives et sa relation avec l’Église permettant de lui attribuer des qualités multiples en fonction de l’objectif du locuteur. Ainsi, « on s’est efforcé que les privilèges que l’on réclamait, que les activités que l’on menait, que la conception de la France que l’on essayait de faire prévaloir remontaient à lui ». En outre, en dépassant les projets individuels, la permanence de la figure de Charlemagne dans l’imaginaire collectif rende possible l’identification des liens réunissant les différents champs et régimes politiques de la France du 19e siècle et les thèmes centraux de leurs discours.
+L’usages multiples de l’empereur reflètent le fait que le Charlemagne auquel le 19e siècle fait référence n’est pas identique à la réalité historique du personnage. La figure moderne se situe là « où se rejoignent et se confondent mythe, histoire et poétique » , elle est le résultat de la fusion des faits historiques, des légendes médiévales et modernes et de la production littéraire. 
+Les discours qui se sont inspirés de cet ensemble variait considérablement selon les régimes politiques et les événements du 19e siècle, réinventant en permanence la figure de Charlemagne. Le travail suivant vise à identifier les manières changeantes dont les discours se sont emparés de l’empereur. 
+
+
 
 Un corpus qui réponde à ces exigences pourrait être composé des œuvres
 littéraires et historiques, de la transcription des débats politiques et
