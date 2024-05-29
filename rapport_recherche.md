@@ -5,7 +5,7 @@
 ## Quel corpus pour quelles questions ? (Lola)
 
 Du croisement du Romantisme dans sa volonté de réhabiliter le Moyen Âge et le nationalisme revendiquant des symboles puissants d’identité collective, émergeait la figure identificatoire emblématique du XIXe siècle : l’empereur carolingien Charlemagne.[^1]
-La plasticité extraordinaire de cette figure l’a mis au centre des discours contemporains ; la diversité des activités du Charlemagne historique, y compris ses succès militaires, ses réformes juridiques et éducatives et sa relation avec l’Église permettant de lui attribuer des qualités multiples en fonction de l’objectif du locuteur.[^2] Ainsi, « on s’est efforcé que les privilèges que l’on réclamait, que les activités que l’on menait, que la conception de la France que l’on essayait de faire prévaloir remontaient à lui ». 
+La plasticité extraordinaire de cette figure l’a mis au centre des discours contemporains ; la diversité des activités du Charlemagne historique, y compris ses succès militaires, ses réformes juridiques et éducatives et sa relation avec l’Église permettant de lui attribuer des qualités multiples en fonction de l’objectif du locuteur.[^2] Ainsi, « on s’est efforcé que les privilèges que l’on réclamait, que les activités que l’on menait, que la conception de la France que l’on essayait de faire prévaloir remontaient à lui ».[^3] 
 
 En outre, en dépassant les projets individuels, la permanence de la figure de Charlemagne dans l’imaginaire collectif rende possible l’identification des liens réunissant les différents champs et régimes politiques de la France du XIXe siècle et les thèmes centraux de leurs discours.
 
@@ -27,9 +27,11 @@ Enfin, le journal est un objet attentif à son environnement, réactif à ce qui
 ![Courbe Gallicagram](img/Courbe_Gallicagram.png)
 
 
-[^1]Isabelle Durand-Le Guern, Bernard Ribémont, * *Charlemagne. Empereur et Mythe d'Occident* *, p. 231, Robert Morissey, L'Empereur à la Barbe Fleurie, p. 9-10.
+[^1]:Isabelle Durand-Le Guern, Bernard Ribémont, *Charlemagne. Empereur et Mythe d'Occident*, p. 231, Robert Morissey, *L'Empereur à la Barbe Fleurie*, p. 9-10.
 
-[^2]Robert Morissey, L'Empereur à la Barbe Fleurie, p. 10.
+[^2]:Robert Morissey, *L'Empereur à la Barbe Fleurie*, p. 10.
+
+[^3]:Robert Morissey, *L'Empereur à la Barbe Fleurie*, p. 10-11.
 
 
 
