@@ -16,7 +16,7 @@ Afin d’y parvenir, un corpus composé des textes faisant mention de Charlemagn
 
 De plus, malgré le fait qu’ils donnent lieu à des débats controversés, dans leur ensemble, les journaux diffusent des informations, normes et valeurs communes, contribuant à la construction de l’identité nationale collective de la France, dont l’empereur représente un élément central.[^24] Au-delà des ces considérations, la mise en œuvre pratique contribue également à ce choix, car la collection des journaux numérisés de la Bibliothèque nationale de la France rende ce type de source facilement accessible. La nature pédagogique de ce travail exige de limiter le corpus aux éditions du Journal des Débats, qui a, en outre d’être un des quotidiens les plus répandus de l’époque, a l’avantage de recouvrir toute la période analysée. 
 
-Un premier survol des résultats qui donnent les outils Gallicagram et Google Ngram Viewer soutien l’hypothèse selon lequel l’emploie de la figure Charlemagne dans les discours du 19e siècle subit des changements fréquents. Le premier permet d’analyser la fréquence de l’apparition du mot « Charlemagne » dans le corpus « Presse française / Gallica », dans lequel sont regroupés les journaux français les plus importants de l’époque, le deuxième travaille avec un corpus dont la composition reste inconnue. Gallicagram situe les plus hautes fréquences de mentions de Charlemagne dans les années 1830s et 1850s alors que Google Ngram View les met dans les années 1840s.[^29] 
+Un premier survol des résultats qui donnent les outils Gallicagram et Google Ngram Viewer soutien l’hypothèse selon lequel l’emploie de la figure Charlemagne dans les discours du 19e siècle subit des changements fréquents. Le premier permet d’analyser la fréquence de l’apparition du mot « Charlemagne » dans le corpus « Presse française / Gallica », dans lequel sont regroupés les journaux français les plus importants de l’époque, le deuxième travaille avec un corpus dont la composition reste inconnue. Gallicagram situe les plus hautes fréquences de mentions de Charlemagne dans les années 1830s et 1850s alors que Google Ngram View les met dans les années 1840s.
 
 ![Courbe Gallicagram](img/Courbe_Gallicagram_02.png)
 
@@ -51,7 +51,7 @@ Enfin, le journal est un objet attentif à son environnement, réactif à ce qui
 
 [^27]:Damon Mayaffre, Les corpus *réfléxifs* : entre architextualité et hypertextualité, dans : Corpus 1 (2002), p. 1.
 
-[^29]: Ces recherches ont été réalisé avec un lissage de facteur 4 pour Gallicagram et de facteur 2 pour Google Ngram Viewer. 
+
 
 
 
