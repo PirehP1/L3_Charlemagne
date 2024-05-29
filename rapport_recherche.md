@@ -9,87 +9,18 @@ La plasticité extraordinaire de cette figure l’a mis au centre des discours c
 L’usages multiples de l’empereur reflètent le fait que le Charlemagne auquel le 19e siècle fait référence n’est pas identique à la réalité historique du personnage. La figure moderne se situe là « où se rejoignent et se confondent mythe, histoire et poétique » , elle est le résultat de la fusion des faits historiques, des légendes médiévales et modernes et de la production littéraire. 
 Les discours qui se sont inspirés de cet ensemble variait considérablement selon les régimes politiques et les événements du 19e siècle, réinventant en permanence la figure de Charlemagne. Le travail suivant vise à identifier les manières changeantes dont les discours se sont emparés de l’empereur. 
 
+Afin d’y parvenir, un corpus composé des textes faisant mention de Charlemagne, qui sont parus dans le Journal des Débats entre 1815 et 1870 sera utilisé. Plusieurs raisons contribuent à ce choix : Le journal est le médium le plus important du 19e siècle et se répande de plus en plus au cours de cela. En tant que format hybride de publication, contenant opinions politiques, traités historiques et productions littéraires, il permet d’étudier la diversité des discours sur Charlemagne. 
+De plus, malgré le fait qu’ils donnent lieu à des débats controversés, dans leur ensemble, les journaux diffusent des informations, normes et valeurs communes, contribuant à la construction de l’identité nationale collective de la France, dont l’empereur représente un élément central. Au-delà des ces considérations, la mise en œuvre pratique contribue également à ce choix, car la collection des journaux numérisés de la Bibliothèque nationale de la France rende ce type de source facilement accessible. La nature pédagogique exige de limiter le corpus aux éditions du Journal des Débats, qui a, en outre d’être un des quotidiens les plus répandus de l’époque, a l’avantage de recouvrir toute la période analysée. 
+
+Le corpus à la base du Journal des Débats permet de discerner les constructions discursives autour de la figure de Charlemagne au 19e siècle tout en remplissant les critères pour la construction des corpus destinés à répondre à des questions historiques. La date et le lieu de parution de chaque édition du journal peuvent être précisément déterminés. Par conséquence, les contextes temporels et local des textes analysés sont connus, comme l’exige Antoine Prost, permettant de lier les références à Charlemagne à leurs environnements historiques spécifiques.
+En outre, le corpus est homogène, dans la mesure où il est uniquement composé d’éléments du même type de source, assurant sa qualité sérielle. La contrastivité du corpus est également achevée car il est possible de regrouper les articles par années et ensuite comparer les sous-parties. Recouvrant la période entre 1815 et 1870, le corpus corresponde tout aussi au critère de la diachronicité. 
+Enfin, le journal est un objet attentif à son environnement, réactif à ce qui a été dit et publié avant, ce qui assure qu’une partie considérable du champ discursif puisse être saisi avec ce corpus d’une taille modérée, se rapprochant ainsi à l’idéal de la réflexivité proposée par Damon Mayaffre.  Par conséquent, le corpus à la base du Journal der Débats permet de contourner la problématique épistémologique identifiée par Mayaffre, c’est-à-dire l’écart entre « l’établissement et du traitement du corpus, sur la base de critères explicites et objectifs et le moment de l’interprétation du texte qui fait appel […] à un intertexte subjectif et discrétionnaire au contour indéterminé ». Dans le cas du journal, une partie de l’intertexte de chaque article est forcément également saisie.
 
 
-Un corpus qui réponde à ces exigences pourrait être composé des œuvres
-littéraires et historiques, de la transcription des débats politiques et
-des articles parus dans les journaux, qui contiennent mention de
-Charlemagne et qui datent entre 1815 et 1870. De cette manière seraient
-couvert les trois socles de la construction moderne de l’empereur : Les
-œuvres littéraires apporteraient surtout des aperçues sur la production
-poétique, les récits historiques mettraient le point sur sa place dans
-l’historiographie. Le mythe serait abordé dans le sens du mythe
-politique, dans sa capacité d’engendrer le soutien du peuple et de créer
-des modèles d’identité dans lesquels ce dernier peut se retrouver. Cela
-ne signifie pour autant pas que les trois aspects soient séparés. Au
-contraire, ils doivent forcément agir ensemble, l’un ou l’autre entrant
-au premier plan selon l’objective de l’auteur et la type de la source.
-
-Pourquoi le Journal des Débats (…) - Temps limité - Projet pédagogique -
-Le Journal des Débats répond à plusieurs exigeances - Journal = format
-hybride de publication -\> permet d’étudier la diversité de discours
-autour de Charlemagne - Journal au 19e siécle -\> objet qui se diffuse
-de plus en plus dans la société française - Mise en œuvre concrète /
-pratiques : bibliothèques virtuelles, numérisées
-
-Les journaux jouent également un rôle crucial, étant un des lieux
-principaux de la construction de l’identité nationale. Malgré le fait
-qu’ils offrent une scène à des débats controversés, dans leur ensemble,
-ils diffusent des informations, normes et valeurs communes, connectant
-les lecteurs. Tout au long du 19e siècle, Charlemagne représente un
-élément central de l’imaginaire collectif ainsi crée. De ce fait,
-l’addition au corpus des articles journalistiques contenant mention de
-l’empereur est indispensable, afin que les fonctions de sa figure dans
-la construction d’identité nationale française puissent être comprises.
-
-Présentation du Journal des Débats (…)
-
-Gallicagram, Google Ngram Un premier survol des résultats qui donnent
-les outils Gallicagram et Google Ngram Viewer souligne l’importance de
-tenir en compte ces quatre types de sources dans le corpus. Gallicagram
-permet d’analyser l’apparition du mot « Charlemagne » dans trois corpus
-ici pertinents, en l’occurrence les corpus « Presse française / Gallica
-», « Livres / Gallica » et « Le Journal des Débats. En recherchant le
-mot « Charlemagne » dans la période entre 1815 et 1870, des différences
-significatives se laissent constater entre les trois corpus. Par
-exemple, dans le corpus composé des journaux français, la plus haute
-fréquence de mentions de Charlemagne se situe dans les années 1850s,
-alors que dans le corpus « Livres », il se trouvent deux sommets, l’un
-vers 1840 et l’autre vers 1850. La courbe du corpus « Le Journal des
-Débat » se ressemble plutôt à celle de la presse qu’à celle des livres,
-ce qui est logique compte tenu qu’il est une sous-partie du premier.
-Pourtant, ils s’y trouvent des différences, notamment une plus grande
-fréquence de mention dans la deuxième moitié des années 1810s dans « Le
-Journal des Débats » en comparaison avec la presse en général. Suivant
-la même démarche, Google Ngram Viewer, qui travaille sur un corpus dont
-la composition reste inconnue, donne encore un autre résultat.[^2] (…)
-Conclusion de cela
 
 ![Courbe Gallicagram](img/Courbe_Gallicagram.png)
 
-À part de représenter les principaux piliers de la construction
-discursive de la figure de Charlemagne au 19e siècle, le corpus ici
-proposé réponde aux critères généraux de la construction de corpus. Il
-est homogène, dans la mesure où il est uniquement composé d’éléments du
-même type de source, assurant sa qualité sérielle. La contrastivité du
-corpus est achevée en deux manières : D’une part, il est possible de
-comparer des étapes temporelles du 19e siècle, de l’autre d’explorer les
-différents genres d’article en tirer des conclusions par rapport à
-l’usage discursif de Charlemagne dans diverses domaines, notamment
-comparer l’usage de la figure dans des milieux politiques littéraires et
-historique.
 
-Le corpus proposé corresponde également au critère de la diachronicité,
-recouvrant la période entière entre 1815 et 1870. Enfin, la réflexivité
-serait tout autant garantie :
-
-- Journal est un objet attentif à ce qui est publié, toucher
-  indirectement d’autres aspects, sorte d
-
-L’exploration des articles de journaux assurent qu’une partie
-considérable du champ discursif puisse être saisi avec un corpus d’une
-taille modérée et par conséquent de contourner la problématique
-épistémologique décrit par Mayaffre.
 
 Hypothèse Plan de démarche
 
