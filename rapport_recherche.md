@@ -271,8 +271,12 @@ la prochaine partie sur la question de la temporalité.
 
 ## Position du problème et méthodologie (Tom et Lola)
 
-- Reprendre la question de la temporalité dans le corpus à travers la présentation de la démarche allant de la table lexicale à l'AFC
-- Rappeler brièvement ce qu'est une AFC
+L’analyse factorielle des correspondances est une méthode qui permet de discerner les relations entre les variables d’un tableau de données de grande taille en le découpant en multiples facteurs. (Prost) Dans notre cas, le base de l’analyse est le tableau lexical antérieurement présenté, qui a pour modalités en colonnes les années allant de 1815 à 1870 et pour modalités en lignes tous les mots des articles faisant mention de Charlemagne qui n’ont pas été exclus dans l’étape précédente. 
+
+C’est donc la relation entre chacun de ces mots et les années de publication des articles dans lesquels ils apparaissent qui sera dégagée par l’AFC, montrant lesquels mots sont les plus fréquemment utilisés dans quelle période de temps. Dans cette manière, il est possible de découvrir le contexte textuel spécifique des mentions de Charlemagne dans chaque années et d’ainsi tirer les conclusions sur l’emploie changeant de la figure de l’empereur. 
+
+Dans la représentation graphique des résultats, les mots sont regroupés autour les années où ils apparaissent le plus fréquemment et éloignés de celles où leurs mentions sont les plus rares. 
+
 
 ### La question des facteurs
 
