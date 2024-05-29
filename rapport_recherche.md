@@ -27,19 +27,19 @@ Enfin, le journal est un objet attentif à son environnement, réactif à ce qui
 ![Courbe Gallicagram](img/Courbe_Gallicagram.png)
 
 
-[^1]:Isabelle Durand-Le Guern, Bernard Ribémont, *Charlemagne. Empereur et Mythe d'Occident*, p. 231, Robert Morissey, *L'Empereur à la Barbe Fleurie*, p. 9-10.
+[^1]:Isabelle Durand-Le Guern, Bernard Ribémont, *Charlemagne. Empereur et Mythe d'Occident*, p. 231, Robert Morissey, *L'Empereur à la barbe fleurie*, p. 9-10.
 
-[^2]:Robert Morissey, *L'Empereur à la Barbe Fleurie*, p. 10.
+[^2]:Robert Morissey, *L'empereur à la barbe fleurie*, p. 10.
 
-[^21]:Robert Morissey, *L'Empereur à la Barbe Fleurie*, p. 10-11.
+[^21]:Robert Morissey, *L'empereur à la barbe fleurie*, p. 10-11.
 
-[^22]:Robert Morissey, *L'Empereur à la Barbe Fleurie*, p. 11.
+[^22]:Robert Morissey, *L'empereur à la barbe fleurie*, p. 11.
 
-[^23]:Robert Morissey, *L'Empereur à la Barbe Fleurie*, p. 11.
+[^23]:Robert Morissey, *L'empereur à la barbe fleurie*, p. 11.
 
 [^24]:Dominique Kalifa, Philippr Régnier, *Homogénéiser le corps national*, p. 1418.
 
-[^25]:Antoire Prost, Les mots, dans: René Rémond (éd.), *Pour une Histoire Politique*, 273.
+[^25]:Antoire Prost, Les mots, dans: René Rémond (éd.), *Pour une histoire politique*, 273.
 
 [^26]:Damon Mayaffre, Les corpus *réfléxifs* : entre architextualité et hypertextualité, dans : Corpus 1 (2002), p. 5.
 
@@ -291,7 +291,7 @@ C’est donc la relation entre chacun de ces mots et les années de publication 
 
 Dans la représentation graphique des résultats, les mots sont regroupés autour les années où ils apparaissent le plus fréquemment et éloignés de celles où leurs mentions sont les plus rares. 
 
-[^28]: Antoire Prost, Les mots, dans: René Rémond (éd.), *Pour une Histoire Politique*, 260-261.
+[^28]: Antoire Prost, Les mots, dans: René Rémond (éd.), *Pour une histoire politique*, 260-261.
 
 
 ### La question des facteurs
