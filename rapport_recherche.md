@@ -5,20 +5,20 @@
 ## Quel corpus pour quelles questions ? (Lola)
 
 Du croisement du Romantisme dans sa volonté de réhabiliter le Moyen Âge et le nationalisme revendiquant des symboles puissants d’identité collective, émergeait la figure identificatoire emblématique du XIXe siècle : l’empereur carolingien Charlemagne.[^1]
-La plasticité extraordinaire de cette figure l’a mis au centre des discours contemporains ; la diversité des activités du Charlemagne historique, y compris ses succès militaires, ses réformes juridiques et éducatives et sa relation avec l’Église permettant de lui attribuer des qualités multiples en fonction de l’objectif du locuteur.[^2] Ainsi, « on s’est efforcé que les privilèges que l’on réclamait, que les activités que l’on menait, que la conception de la France que l’on essayait de faire prévaloir remontaient à lui ».[^3] 
+La plasticité extraordinaire de cette figure l’a mis au centre des discours contemporains ; la diversité des activités du Charlemagne historique, y compris ses succès militaires, ses réformes juridiques et éducatives et sa relation avec l’Église permettant de lui attribuer des qualités multiples en fonction de l’objectif du locuteur.[^2] Ainsi, « on s’est efforcé que les privilèges que l’on réclamait, que les activités que l’on menait, que la conception de la France que l’on essayait de faire prévaloir remontaient à lui ».[^21] 
 
-En outre, en dépassant les projets individuels, la permanence de la figure de Charlemagne dans l’imaginaire collectif rende possible l’identification des liens réunissant les différents champs et régimes politiques de la France du XIXe siècle et les thèmes centraux de leurs discours.
+En outre, en dépassant les projets individuels, la permanence de la figure de Charlemagne dans l’imaginaire collectif rende possible l’identification des liens réunissant les différents champs et régimes politiques de la France du XIXe siècle et les thèmes centraux de leurs discours.[^22]
 
-L’usages multiples de l’empereur reflètent le fait que le Charlemagne auquel le XIXe siècle fait référence n’est pas identique à la réalité historique du personnage. La figure moderne se situe là « où se rejoignent et se confondent mythe, histoire et poétique » , elle est le résultat de la fusion des faits historiques, des légendes médiévales et modernes et de la production littéraire. 
+L’usages multiples de l’empereur reflètent le fait que le Charlemagne auquel le XIXe siècle fait référence n’est pas identique à la réalité historique du personnage. La figure moderne se situe là « où se rejoignent et se confondent mythe, histoire et poétique »[^23] , elle est le résultat de la fusion des faits historiques, des légendes médiévales et modernes et de la production littéraire. 
 Les discours qui se sont inspirés de cet ensemble variait considérablement selon les régimes politiques et les événements du XIXe siècle, réinventant en permanence la figure de Charlemagne. Le travail suivant vise à identifier les manières changeantes dont les discours se sont emparés de l’empereur. 
 
 Afin d’y parvenir, un corpus composé des textes faisant mention de Charlemagne, qui sont parus dans le Journal des Débats entre 1815 et 1870 sera utilisé. Plusieurs raisons contribuent à ce choix : Le journal est le médium le plus important du XIXe siècle et se répande de plus en plus au cours de cela. En tant que format hybride de publication, contenant opinions politiques, traités historiques et productions littéraires, il permet d’étudier la diversité des discours sur Charlemagne. 
 
-De plus, malgré le fait qu’ils donnent lieu à des débats controversés, dans leur ensemble, les journaux diffusent des informations, normes et valeurs communes, contribuant à la construction de l’identité nationale collective de la France, dont l’empereur représente un élément central. Au-delà des ces considérations, la mise en œuvre pratique contribue également à ce choix, car la collection des journaux numérisés de la Bibliothèque nationale de la France rende ce type de source facilement accessible. La nature pédagogique exige de limiter le corpus aux éditions du Journal des Débats, qui a, en outre d’être un des quotidiens les plus répandus de l’époque, a l’avantage de recouvrir toute la période analysée. 
+De plus, malgré le fait qu’ils donnent lieu à des débats controversés, dans leur ensemble, les journaux diffusent des informations, normes et valeurs communes, contribuant à la construction de l’identité nationale collective de la France, dont l’empereur représente un élément central.[^24] Au-delà des ces considérations, la mise en œuvre pratique contribue également à ce choix, car la collection des journaux numérisés de la Bibliothèque nationale de la France rende ce type de source facilement accessible. La nature pédagogique exige de limiter le corpus aux éditions du Journal des Débats, qui a, en outre d’être un des quotidiens les plus répandus de l’époque, a l’avantage de recouvrir toute la période analysée. 
 
-Le corpus à la base du Journal des Débats permet de discerner les constructions discursives autour de la figure de Charlemagne au 19e siècle tout en remplissant les critères pour la construction des corpus destinés à répondre à des questions historiques. La date et le lieu de parution de chaque édition du journal peuvent être précisément déterminés. Par conséquence, les contextes temporels et local des textes analysés sont connus, comme l’exige Antoine Prost, permettant de lier les références à Charlemagne à leurs environnements historiques spécifiques.
+Le corpus à la base du Journal des Débats permet de discerner les constructions discursives autour de la figure de Charlemagne au 19e siècle tout en remplissant les critères pour la construction des corpus destinés à répondre à des questions historiques. La date et le lieu de parution de chaque édition du journal peuvent être précisément déterminés. Par conséquence, les contextes temporels et local des textes analysés sont connus, comme l’exige Antoine Prost, permettant de lier les références à Charlemagne à leurs environnements historiques spécifiques.[^25]
 
-En outre, le corpus est homogène, dans la mesure où il est uniquement composé d’éléments du même type de source, assurant sa qualité sérielle. La contrastivité du corpus est également achevée car il est possible de regrouper les articles par années et ensuite comparer les sous-parties. Recouvrant la période entre 1815 et 1870, le corpus corresponde tout aussi au critère de la diachronicité. 
+En outre, le corpus est homogène, dans la mesure où il est uniquement composé d’éléments du même type de source, assurant sa qualité sérielle. La contrastivité du corpus est également achevée car il est possible de regrouper les articles par années et ensuite comparer les sous-parties. Recouvrant la période entre 1815 et 1870, le corpus corresponde tout aussi au critère de la diachronicité.[^26] 
 
 Enfin, le journal est un objet attentif à son environnement, réactif à ce qui a été dit et publié avant, ce qui assure qu’une partie considérable du champ discursif puisse être saisi avec ce corpus d’une taille modérée, se rapprochant ainsi à l’idéal de la réflexivité proposée par Damon Mayaffre.  Par conséquent, le corpus à la base du Journal der Débats permet de contourner la problématique épistémologique identifiée par Mayaffre, c’est-à-dire l’écart entre « l’établissement et du traitement du corpus, sur la base de critères explicites et objectifs et le moment de l’interprétation du texte qui fait appel […] à un intertexte subjectif et discrétionnaire au contour indéterminé ». Dans le cas du journal, une partie de l’intertexte de chaque article est forcément également saisie.
 
@@ -31,7 +31,18 @@ Enfin, le journal est un objet attentif à son environnement, réactif à ce qui
 
 [^2]:Robert Morissey, *L'Empereur à la Barbe Fleurie*, p. 10.
 
-[^3]:Robert Morissey, *L'Empereur à la Barbe Fleurie*, p. 10-11.
+[^21]:Robert Morissey, *L'Empereur à la Barbe Fleurie*, p. 10-11.
+
+[^22]:Robert Morissey, *L'Empereur à la Barbe Fleurie*, p. 11.
+
+[^23]:Robert Morissey, *L'Empereur à la Barbe Fleurie*, p. 11.
+
+[^24]:Dominique Kalifa, Philippr Régnier, *Homogénéiser le corps national*, p. 1418.
+
+[^25]:Antoire Prost, Les mots, dans: René Rémond (éd.), *Pour une Histoire Politique*, 273.
+
+[^26]:Damon Mayaffre, Les corpus *réfléxifs* : entre architextualité et hypertextualité, dans : Corpus 1 (2002), p. 5.
+
 
 
 
