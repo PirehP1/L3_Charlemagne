@@ -29,10 +29,6 @@ En outre, le corpus est homogène, dans la mesure où il est uniquement composé
 Enfin, le journal est un objet attentif à son environnement, réactif à ce qui a été dit et publié avant, ce qui assure qu’une partie considérable du champ discursif puisse être saisi avec ce corpus d’une taille modérée, se rapprochant ainsi à l’idéal de la réflexivité proposée par Damon Mayaffre.  Par conséquent, le corpus à la base du Journal der Débats permet de contourner la problématique épistémologique identifiée par Mayaffre, c’est-à-dire l’écart entre « l’établissement et du traitement du corpus, sur la base de critères explicites et objectifs et le moment de l’interprétation du texte qui fait appel […] à un intertexte subjectif et discrétionnaire au contour indéterminé ».[^27] Dans le cas du journal, une partie de l’intertexte de chaque article est forcément également saisie.
 
 
-
-![Courbe Gallicagram](img/Courbe_Gallicagram.png)
-
-
 [^1]:Isabelle Durand-Le Guern, Bernard Ribémont, *Charlemagne. Empereur et Mythe d'Occident*, p. 231, Robert Morissey, *L'Empereur à la barbe fleurie*, p. 9-10.
 
 [^2]:Robert Morissey, *L'empereur à la barbe fleurie*, p. 10.
