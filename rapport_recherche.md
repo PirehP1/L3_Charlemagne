@@ -4,12 +4,12 @@
 
 ## Quel corpus pour quelles questions ? (Lola)
 
-Du croisement du Romantisme dans sa volonté de réhabiliter le Moyen Âge et le nationalisme revendiquant des symboles puissants d’identité collective, émergeait la figure identificatoire emblématique du 19e siècle : l’empereur carolingien Charlemagne.
-La plasticité extraordinaire de cette figure l’a mis au centre des discours contemporains ; la diversité des activités du Charlemagne historique, y compris ses succès militaires, ses réformes juridiques et éducatives et sa relation avec l’Église permettant de lui attribuer des qualités multiples en fonction de l’objectif du locuteur. Ainsi, « on s’est efforcé que les privilèges que l’on réclamait, que les activités que l’on menait, que la conception de la France que l’on essayait de faire prévaloir remontaient à lui ». 
+Du croisement du Romantisme dans sa volonté de réhabiliter le Moyen Âge et le nationalisme revendiquant des symboles puissants d’identité collective, émergeait la figure identificatoire emblématique du XIXe siècle : l’empereur carolingien Charlemagne.[^1]
+La plasticité extraordinaire de cette figure l’a mis au centre des discours contemporains ; la diversité des activités du Charlemagne historique, y compris ses succès militaires, ses réformes juridiques et éducatives et sa relation avec l’Église permettant de lui attribuer des qualités multiples en fonction de l’objectif du locuteur.[^2] Ainsi, « on s’est efforcé que les privilèges que l’on réclamait, que les activités que l’on menait, que la conception de la France que l’on essayait de faire prévaloir remontaient à lui ». 
 
 En outre, en dépassant les projets individuels, la permanence de la figure de Charlemagne dans l’imaginaire collectif rende possible l’identification des liens réunissant les différents champs et régimes politiques de la France du XIXe siècle et les thèmes centraux de leurs discours.
 
-L’usages multiples de l’empereur reflètent le fait que le Charlemagne auquel le 19e siècle fait référence n’est pas identique à la réalité historique du personnage. La figure moderne se situe là « où se rejoignent et se confondent mythe, histoire et poétique » , elle est le résultat de la fusion des faits historiques, des légendes médiévales et modernes et de la production littéraire. 
+L’usages multiples de l’empereur reflètent le fait que le Charlemagne auquel le XIXe siècle fait référence n’est pas identique à la réalité historique du personnage. La figure moderne se situe là « où se rejoignent et se confondent mythe, histoire et poétique » , elle est le résultat de la fusion des faits historiques, des légendes médiévales et modernes et de la production littéraire. 
 Les discours qui se sont inspirés de cet ensemble variait considérablement selon les régimes politiques et les événements du XIXe siècle, réinventant en permanence la figure de Charlemagne. Le travail suivant vise à identifier les manières changeantes dont les discours se sont emparés de l’empereur. 
 
 Afin d’y parvenir, un corpus composé des textes faisant mention de Charlemagne, qui sont parus dans le Journal des Débats entre 1815 et 1870 sera utilisé. Plusieurs raisons contribuent à ce choix : Le journal est le médium le plus important du XIXe siècle et se répande de plus en plus au cours de cela. En tant que format hybride de publication, contenant opinions politiques, traités historiques et productions littéraires, il permet d’étudier la diversité des discours sur Charlemagne. 
@@ -27,14 +27,12 @@ Enfin, le journal est un objet attentif à son environnement, réactif à ce qui
 ![Courbe Gallicagram](img/Courbe_Gallicagram.png)
 
 
+[^1]Isabelle Durand-Le Guern, Bernard Ribémont, * *Charlemagne. Empereur et Mythe d'Occident* *, p. 231, Robert Morissey, L'Empereur à la Barbe Fleurie, p. 9-10.
 
-Hypothèse Plan de démarche
+[^2]Robert Morissey, L'Empereur à la Barbe Fleurie, p. 10.
 
-[^1]: Morissey, R., *L’Empereur à la barbe fleurie. Charlemagne dans la
-    mythologie et l’histoire de France*, Paris 1998, p. 11.
 
-[^2]: Ces recherches ont été réalisé avec un lissage du facteur 4 pour
-    Gallicagram et du facteur 2 pour Google Ngram Viewer.
+
 
 
 ## Explorer le corpus des mentions de Charlemagne dans le Journal des Débats (Tom)
