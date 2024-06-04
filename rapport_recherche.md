@@ -1,7 +1,8 @@
 **Attention**, ce document est en cours de rédaction. Il s'agit d'une version de travail amenée à évoluer.
 
-Étudiants participant au projet : Enzo FRANZ, Alexandre GALLE, Waldeck GARAUDET, Lola HAJNAL BERG, Tom SEQUIER.
-Enseignant : Léo Dumont.
+**Étudiants participant au projet** : Enzo FRANZ, Alexandre GALLE, Waldeck GARAUDET, Lola HAJNAL BERG, Tom SEQUIER.
+
+**Enseignant** : Léo Dumont.
 
 # Présentation du corpus
 
