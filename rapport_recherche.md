@@ -905,9 +905,3 @@ siècle.
 - Présenter les principaux éléments mis en avant par le 3e facteur
 - Il faut intégrer des retours au texte afin d'illustrer les observations faites via l'utilisation de la fonction `kwic()` de quanteda par exemple.
 - Possibilité aussi de revenir aux journaux sur Gallica.
-
-# La question des genres journalistiques (selon le temps)
-
-## Position du problème et méthodologie
-
-## Principaux résultats
